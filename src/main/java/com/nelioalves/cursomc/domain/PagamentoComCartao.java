@@ -4,8 +4,6 @@ package com.nelioalves.cursomc.domain;
 
 import javax.persistence.Entity;
 
-
-
 import com.nelioalves.cursomc.domain.enums.EstadoPagamento;
 
 @Entity
