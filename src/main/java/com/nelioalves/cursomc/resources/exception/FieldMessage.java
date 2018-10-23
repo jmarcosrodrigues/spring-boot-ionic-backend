@@ -22,7 +22,7 @@ public class FieldMessage implements Serializable {
 
 
 
-	public String getFildName() {
+	public String getFieldName() {
 		return fildName;
 	}
 
